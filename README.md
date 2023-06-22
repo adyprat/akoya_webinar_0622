@@ -1,6 +1,6 @@
 # Python scripts used for Akoya Academy Webinar on June 22nd, 2023
 
-To create anaconda environment, run `conda env create -f sscore.yml`
+To create anaconda environment in Windows, run `conda env create -f sscore.yml`. 
 
 To activate and run the jupyter notebook: `conda activate sscore`, followed by `jupyter-notebook --port 8888` and navigate to the `notebooks/` folder.
 
