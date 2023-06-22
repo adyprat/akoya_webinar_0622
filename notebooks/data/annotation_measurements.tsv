@@ -1,0 +1,3 @@
+Image	Object ID	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	Num Detections	Area µm^2	Perimeter µm
+NSCLC_S2.ome.tif	d7123729-d749-461f-bae4-7db8beff215e	PathAnnotationObject		Image	Polygon	2965.9	6040.8	171391	31963110.1	32474.1
+NSCLC_S1.ome..tif	05cb5fca-490b-4c7e-bd2f-67c0cf26d834	PathAnnotationObject		Image	Polygon	3613.8	3585.6	266898	30943724.1	22996.1

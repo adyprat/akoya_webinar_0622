@@ -1,0 +1,7 @@
+﻿,,CD8,CD4,CD3E,CD20,PanCK,CD68
+all,B cells,,,,pos,,
+all,T cells,,,pos,,,
+all,Tumor,,,,,pos,
+all,Macrophages,,,,,,pos
+T cells,CD8+ T cells,pos,,,,,
+T cells,CD4+ T cells,,pos,,,,
