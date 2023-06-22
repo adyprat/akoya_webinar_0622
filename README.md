@@ -2,6 +2,6 @@
 
 To create anaconda environment, run `conda env create -f sscore.yml`
 
-To activate and run the jupyter notebook: `conda activate sscore`, followed by `jupyter-notebook --port 8888`.
+To activate and run the jupyter notebook: `conda activate sscore`, followed by `jupyter-notebook --port 8888` and navigate to the `notebooks/` folder.
 
 The data files (too large for GitHub) can be downloaded from [here](https://bit.ly/akoya_0622_data).
